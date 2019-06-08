@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RWM_WPF", "RWM_WPF\RWM_WPF.csproj", "{7D2BAB4A-D94B-4D25-8841-D4598CE6CBA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D2BAB4A-D94B-4D25-8841-D4598CE6CBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2BAB4A-D94B-4D25-8841-D4598CE6CBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2BAB4A-D94B-4D25-8841-D4598CE6CBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2BAB4A-D94B-4D25-8841-D4598CE6CBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {157C7C11-C939-4E33-834C-53CFC70D3534}
+	EndGlobalSection
+EndGlobal
